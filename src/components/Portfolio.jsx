@@ -25,7 +25,7 @@ const CVSection = () => {
 
         <div className="mt-4 flex justify-end">
           <button 
-            onClick={() => window.open("https://github.com/anupamsingh2/portfolioLinks/blob/main/CV_Anupam_Singh_Github.pdf", "_blank")} 
+            onClick={() => window.open("https://github.com/anupamsingh2/portfolioLinks/blob/main/AdityaPandey_CV.pdf", "_blank")} 
             className="py-2 px-4 bg-[#915EFF] hover:bg-purple-600 text-white rounded-lg transition-colors flex items-center gap-2"
           >
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">

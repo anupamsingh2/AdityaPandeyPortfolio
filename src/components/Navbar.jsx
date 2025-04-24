@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import anupamPhoto from '../assets/anupamsingh.jpg'; // ✅ import your photo
+import anupamPhoto from '../assets/AdityaPandey.jpg'; // ✅ import your photo
 import { navLinks } from '../constants';
 import { styles } from '../styles';
 
@@ -25,7 +25,7 @@ const Navbar = () => {
             className="w-10 h-10 rounded-full object-cover border-2 border-purple-500 shadow-sm"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer">
-            Anupam Singh &nbsp;
+            Aditya Pandey &nbsp;
             <span className="hidden sm:block">| Software Developer</span>
           </p>
         </Link>

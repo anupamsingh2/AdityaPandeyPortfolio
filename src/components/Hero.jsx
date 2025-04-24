@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import React from 'react';
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
-import profile from '../assets/anupamsingh.jpg';
+import profile from '../assets/AdityaPandey.jpg';
 
 const Hero = () => {
   return (
@@ -17,7 +17,7 @@ const Hero = () => {
           </div>
           <div>
             <h1 className={`${styles.heroHeadText} text-white`}>
-              Hi, I'm <span className="text-[#915eff]">Anupam Singh</span>
+              Hi, I'm <span className="text-[#915eff]">Aditya Pandey</span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
               Develop Programs and Manage Databases, <br className="hidden sm:block" />
