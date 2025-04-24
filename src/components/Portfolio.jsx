@@ -16,6 +16,7 @@ const CVSection = () => {
         
         <div className="w-full h-[500px] bg-black/50 rounded-2xl flex items-center justify-center relative overflow-hidden">
           {/* Use imported image instead of direct path */}
+          {/* new comment to commit */}
           <img 
             src={cvPreview} 
             alt="CV Preview" 
