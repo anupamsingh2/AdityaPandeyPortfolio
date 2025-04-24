@@ -123,31 +123,31 @@ const Achievements = () => {
       description: "Led the technical wing of Team7, managing project development, mentoring junior developers, and ensuring high-quality output across initiatives. Played a key role in driving technical excellence and fostering hands-on learning among members.",
       date: "2022-2023",
       icon: icons[0]
-    },
-    {
-      title: "Anchor – Department of Youth Capital, LPU",
-      description: "Hosted high-impact events including advertisement campaigns and team selection rounds. As an anchor, I played a key role in audience engagement and smooth event execution, contributing to the department’s dynamic campus presence and outreach efforts.",
-      date: "2022",
-      icon: icons[2]
-    },
-    {
-      title: "Recognized Speaker – Model United Nations, DPS K",
-      description: "Recognized as a standout delegate at the All India Inter-DPS MUN hosted by DPS K. Delivered impactful speeches among international participants and judges, showcasing diplomatic insight, negotiation skills, and public speaking excellence.",
-      date: "2021",
-      icon: icons[3]
-    },
-    {
-      title: "Best Cadet Commander – Scouts, DPS Vindhyanagar",
-      description: "Honored with the Best Cadet Commander Award by the CISF Commander during the 26th January Parade. Represented the Scouts of DPS Vindhyanagar with distinction, demonstrating leadership, discipline, and dedication to service.",
-      date: "2021",
-      icon: icons[3]
-    },
-    {
-      title: "Student Council President – DPS Vindhyanagar",
-      description: "Elected as the Student Council President at Delhi Public School Vindhyanagar. Led school-wide initiatives, coordinated inter-house activities, and represented the student body, promoting leadership, unity, and student engagement.",
-      date: "2021 - 2022",
-      icon: icons[3]
     }
+    // {
+    //   title: "Anchor – Department of Youth Capital, LPU",
+    //   description: "Hosted high-impact events including advertisement campaigns and team selection rounds. As an anchor, I played a key role in audience engagement and smooth event execution, contributing to the department’s dynamic campus presence and outreach efforts.",
+    //   date: "2022",
+    //   icon: icons[2]
+    // },
+    // {
+    //   title: "Recognized Speaker – Model United Nations, DPS K",
+    //   description: "Recognized as a standout delegate at the All India Inter-DPS MUN hosted by DPS K. Delivered impactful speeches among international participants and judges, showcasing diplomatic insight, negotiation skills, and public speaking excellence.",
+    //   date: "2021",
+    //   icon: icons[3]
+    // },
+    // {
+    //   title: "Best Cadet Commander – Scouts, DPS Vindhyanagar",
+    //   description: "Honored with the Best Cadet Commander Award by the CISF Commander during the 26th January Parade. Represented the Scouts of DPS Vindhyanagar with distinction, demonstrating leadership, discipline, and dedication to service.",
+    //   date: "2021",
+    //   icon: icons[3]
+    // },
+    // {
+    //   title: "Student Council President – DPS Vindhyanagar",
+    //   description: "Elected as the Student Council President at Delhi Public School Vindhyanagar. Led school-wide initiatives, coordinated inter-house activities, and represented the student body, promoting leadership, unity, and student engagement.",
+    //   date: "2021 - 2022",
+    //   icon: icons[3]
+    // }
   ];
 
   return (

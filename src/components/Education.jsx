@@ -63,7 +63,7 @@ const Education = () => {
       image: "/university-logo.png" 
     },
     {
-      institution: "Delhi Public School",
+      institution: "Army Public School",
       degree: "Higher Secondary Education (Class 12)",
       year: "2020 - 2021",
       score: "91%",
@@ -71,10 +71,10 @@ const Education = () => {
       image: "/highschool-logo.png" 
     },
     {
-      institution: "Delhi Public School ",
+      institution: "Army Public School ",
       degree: "Secondary Education (Class 10)",
       year: "2018 - 2019",
-      score: "92%",
+      score: "83%",
       description: "Earned CBSE Class 10th certification with strong performance in English, Math, Science, Social Studies, Sanskrit, and Computer Fundamentals.",
       image: "/highschool-logo.png" 
     }
